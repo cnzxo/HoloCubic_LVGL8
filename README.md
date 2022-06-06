@@ -1,1 +1,1 @@
-# HoloCubic_LVGL8
+# HoloCubic移植LVGL8图形库
